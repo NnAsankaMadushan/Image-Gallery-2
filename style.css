@@ -16,3 +16,17 @@
 .carousel img {
     -webkit-box-reflect: below 20px linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3));
 }
+.name{
+    background-color: #000;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+    font-size: 400%;
+}
+.name i{
+    font-size: 150%;
+    /* font-size: 900; */
+   font-weight: 900;
+}
